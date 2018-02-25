@@ -15,7 +15,7 @@
             <table class="table table-bordered">
                 <thead>
                 <tr>
-                    <th>No.</th>
+                    <th>No</th>
                     <th>Nama</th>
                     <th>Email</th>
                     <th>No. HP</th>
