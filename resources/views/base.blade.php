@@ -13,7 +13,7 @@
     <!-- Canonical -->
     <link rel="canonical" href="">
 
-    <title>Latihan Laravel 5.4 - Anak IT</title>
+    <title>Latihan Laravel Gatrem</title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
